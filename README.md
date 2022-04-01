@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JAr0d8
+- 👋 Hi, I’m Jar0d_8
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Network and System
 - 💞️ I’m looking to collaborate on Cybersecutity Project
